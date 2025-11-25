@@ -31,7 +31,6 @@ A short and straightforward description designed to generate a minimal yet recog
 “A lion running across a dry savanna.”
 # output
 
-https://github.com/user-attachments/assets/feac8f88-4ef6-4289-8343-d82b1a9fc571
 
 <img width="1625" height="840" alt="image" src="https://github.com/user-attachments/assets/84eaf96e-d013-4869-a79e-418881eb7529" />
 
